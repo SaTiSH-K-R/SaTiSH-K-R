@@ -2,6 +2,9 @@
 
 Currently looking for a full time role as Full Stack/Frontend/Backend Web3 Developer.
 
+- Here is the <a href="https://drive.google.com/file/d/1LrFJ_dx5fbF4x0f5bj9vzyDQP8YmKi_L/view" target="_blank">resume</a>
+- Contact me in <a href="https://www.linkedin.com/in/satishkr1/" target="_blank">LinkedIn</a>
+
 ## Projects
 
 - **OTC Exchange**
