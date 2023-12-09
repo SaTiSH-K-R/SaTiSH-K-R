@@ -32,5 +32,5 @@ Currently looking for a full time role as Full Stack/Frontend/Backend Web3 Devel
  
 ## Skills
 
-`Blockchain Development` `Smart Contracts` `Hardhat` `Truffle` `Remix` `Smart Contract testing` `Mocha/Chai`
+`Blockchain Development` `Smart Contracts` `Solidity` `Huff` `Foundry` `Hardhat` `Remix` `Smart Contract testing` `Mocha/Chai`
 `ReactJS` `NextJS` `ethers.js` `web3.js` `wagmi` `Javascript` `Typescript` `Subgraph` `GraphQL` `Express` `MongoDB`
