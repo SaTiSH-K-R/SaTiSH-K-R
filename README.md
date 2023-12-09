@@ -7,6 +7,10 @@ Currently looking for a full time role as Full Stack/Frontend/Backend Web3 Devel
 
 ## Projects
 
+- **<a href="https://github.com/SaTiSH-K-R/huff-create3-factory" target="_blank">Huff Create3 Factory(Pet project)</a>**
+
+  Minimalistic Create3 Factory contract written in Huff, a low-level Smart Contract language, to deploy contracts to the same address on different EVM blockchains.
+
 - **OTC Exchange**
 
   This is an Over The Counter Exchange deployed to Ethereum mainnet, Polygon, BSC, and Goerli testnet and built for a startup.
