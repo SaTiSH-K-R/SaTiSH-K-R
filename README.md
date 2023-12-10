@@ -1,26 +1,26 @@
-### Hi there 👋, Satish here
+### Hi👋, Satish here
 
-Currently looking for a full time role as Full Stack/Frontend/Backend Web3 Developer.
+Currently looking for a full-time role as Full Stack/Frontend/Backend Web3 Developer.
 
-- Here is the <a href="https://drive.google.com/file/d/1LrFJ_dx5fbF4x0f5bj9vzyDQP8YmKi_L/view" target="_blank">resume</a>
+- Here is the <a href="https://drive.google.com/file/d/1iL-wfvCwOB4Ng1KTOdSEmOjcL7uJxygy/view" target="_blank">resume</a>
 - Contact me in <a href="https://www.linkedin.com/in/satishkr1/" target="_blank">LinkedIn</a>
 
 ## Projects
 
-- **<a href="https://github.com/SaTiSH-K-R/huff-create3-factory" target="_blank">Huff Create3 Factory(Pet project)</a>**
+- **<a href="https://github.com/SaTiSH-K-R/huff-create3-factory" target="_blank">Huff Create3 Factory</a>**
 
   Minimalistic Create3 Factory contract written in Huff, a low-level Smart Contract language, to deploy contracts to the same address on different EVM blockchains.
 
 - **OTC Exchange**
 
-  This is an Over The Counter Exchange deployed to Ethereum mainnet, Polygon, BSC, and Goerli testnet and built for a startup.
+  This is an Over-The-Counter Exchange deployed to the Ethereum mainnet, Polygon, BSC, and Goerli testnet and built for a startup.
   This was completely developed by me. 💻*Developed* **Smart Contracts**, **Subgraph** to index/store contract events data, and **Frontend** to interact with the contract and subgraph
   
   **Link**: <https://aspis-otc-exchange.vercel.app>
   
 - **Freewill Finance(Pet project)**
 
-  A Decentralized Finance where users can lend, borrow, provide multiple assets as collaterals and customize the tokens and amounts of collaterals anytime to avoid liquidation. It was deployed to Goerli Testnet
+  A Decentralized Finance where users can lend, borrow, provide multiple assets as collaterals and customize the tokens and amounts of collaterals anytime to avoid liquidation. It was deployed to the Goerli Testnet
   
   **Link**: <https://FreewillFinance.vercel.app>
   
